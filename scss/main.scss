@@ -1,0 +1,12 @@
+//base (global)
+@import "global/reset";
+@import "global/variables";
+@import "global/mixins";
+@import "global/base";
+
+//Libs
+@import "libs/slick-theme";
+@import "libs/slick";
+
+//Section
+@import "section/first";

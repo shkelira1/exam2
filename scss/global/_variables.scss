@@ -1,0 +1,43 @@
+// Colors
+$c-white: #fff;
+$c-blue: #55b7ff;
+$c-dark: #000;
+$c-purple: #7e5aff;
+$c-dark-blue: #2c4058;
+
+// Fonts
+$ff-main: 'Gotham-Bold', sans-serif;
+$ff-medium: 'Gotham-Medium', sans-serif;
+$ff-book: 'Gotham-Book', sans-serif;
+$ff-open: 'Open Sans', sans-serif;
+// Path
+$path-img: '../img/design/';
+$path-fonts: '../fonts/';
+
+
+// Transition
+$base-transition: .3s ease;
+
+
+// Shadow
+$base-text-shadow: 0px 1px 6px rgba(1, 1, 1, 0.3);
+$base-box-shadow: 0px 2px 4.8px 0.2px rgba(0, 1, 0, 0.49);
+
+
+// Opacity
+$base-opacity-hover: .8;
+
+
+
+$breakpoints: (
+        "w400":           400px,
+        "phone-small":    480px,
+        "600":            600px,
+        "phone":          768px,
+        "tablet":         992px,
+        "desktop-low":    1100px,
+        "desktop":        1200px,
+        "desktop-medium": 1300px,
+        "desktop-large":  1400px,
+        "1500":           1500px
+);
